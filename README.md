@@ -1,6 +1,6 @@
 # 📊 Tableau Mini Project – Student Performance & Attendance Analysis
 
-![Student Performance & Attendance Analysis](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/raise_hand_student_class.jpeg?VersionId=qMucrv8zEA9ic.3eu3XY4rbZPbz5IHxL&size=690:388)
+![Student Performance & Attendance Analysis](https://www.minopcloud.com/AssetsNew/images/edtech/Index/edtech-slider.png)
 
 ## 📌 Project Overview
 This Tableau mini project focuses on analyzing **student enrollment, academic performance, attendance status, and gender distribution** across various academic programs.  
