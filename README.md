@@ -37,40 +37,43 @@ The dataset contains **1,000+ student records** with the following key fields:
 ## 📈 Key Visualizations
 The Tableau dashboards include the following visuals:
 
-1. **Student Count by Academic Program**  
+1. **Student Count by Academic Program**
+<img width="1499" height="719" alt="Screenshot 2026-01-22 005653" src="https://github.com/user-attachments/assets/9a1d335c-15e5-4a22-9f0c-404f07d815c8" />
+
    - Bar chart showing enrollment across courses  
 
-2. **Gender-wise Student Enrollment by Course**  
+3. **Gender-wise Student Enrollment by Course**
+<img width="1505" height="728" alt="Screenshot 2026-01-22 005711" src="https://github.com/user-attachments/assets/1ffe3bc2-365b-491a-8832-cb4617c9d077" />
+
    - Comparison of male and female students in each program  
 
-3. **Total Passed Students**  
+5. **Total Passed Students**
+<img width="377" height="237" alt="Screenshot 2026-01-22 005719" src="https://github.com/user-attachments/assets/f4c6b5fa-5023-4cb4-9753-fc5a5c490b91" />
+
    - KPI card filtered on students who passed  
 
-4. **Total Failed Students**  
+7. **Total Failed Students**
+<img width="421" height="253" alt="Screenshot 2026-01-22 005727" src="https://github.com/user-attachments/assets/091e0cd7-25e3-45da-8fa9-67664a5a620c" />
+
    - KPI card filtered on students who failed  
 
-5. **Student Result by Course**  
+9. **Student Result by Course**
+<img width="1500" height="719" alt="Screenshot 2026-01-22 005736" src="https://github.com/user-attachments/assets/b760e19b-4da7-4715-82e5-f148abe80aa5" />
+
    - Pass vs Fail comparison across courses  
 
-6. **Attendance Status by Course**  
+11. **Attendance Status by Course**
+<img width="1501" height="722" alt="Screenshot 2026-01-22 005749" src="https://github.com/user-attachments/assets/5927d7bf-3f2f-4757-87af-457086ef7fae" />
+
    - High vs Low attendance distribution  
-
-7. **Attendance Percentage Trend (Binned Analysis)**  
-   - Distribution of attendance percentage using bins  
-
-8. **External Marks vs Attendance (Bubble Chart)**  
-   - Size: Attendance Percentage  
-   - Color: External Marks  
 
 ---
 
 ## 📊 Dashboards & Storytelling
-- **3–4 Interactive Dashboards** combining multiple visuals  
-- **2 Tableau Stories** explaining:
-  - Student performance insights  
-  - Attendance impact on results  
-
-Each dashboard and story includes **professional titles and captions** for easy understanding.
+- **3–4 Interactive Dashboards** combining multiple visuals
+<img width="1712" height="799" alt="Screenshot 2026-01-22 005819" src="https://github.com/user-attachments/assets/724480f1-7143-48d5-9119-4768b1a5c992" />
+<img width="1630" height="805" alt="Screenshot 2026-01-22 005832" src="https://github.com/user-attachments/assets/6367c1e4-e710-4758-aabe-926013e05065" />
+<img width="1646" height="797" alt="Screenshot 2026-01-22 005842" src="https://github.com/user-attachments/assets/93e0433e-1445-486a-b35d-eb7c44eca12b" />
 
 ---
 
